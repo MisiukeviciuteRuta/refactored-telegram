@@ -1,0 +1,8 @@
+Instructions for deploying this site to the server
+------------------------------------==============
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium fuga reprehenderit rerum pariatur assumenda dolorum facilis repudiandae in neque ab amet quos sit iusto nisi cumque fugiat earum, recusandae ipsa placeat doloremque eligendi distinctio cupiditate! Nam aperiam soluta unde beatae! Sit itaque non voluptatum minima, aut alias eos distinctio, modi cupiditate iusto minus hic magnam! Voluptate veritatis dolores quas quos cupiditate possimus doloribus alias adipisci iure doloremque! Recusandae magni vero beatae deleniti saepe laboriosam dolores, ipsum illum asperiores ea error officia accusamus expedita sint voluptates omnis necessitatibus ipsa reprehenderit iusto. Eos quibusdam inventore, officiis repellendus enim nisi recusandae tenetur ab?    
+
+Installation on IIS
+-------------------
+
+Content goes here
